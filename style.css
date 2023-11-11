@@ -1,0 +1,13 @@
+body {
+    background-color: #2d3e50;
+}
+.area {
+    width: 1000px;
+    margin: auto;
+}
+.header-title {
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    margin-top:80px;
+}

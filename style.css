@@ -11,3 +11,6 @@ body {
     font-family: cursive;
     margin-top:80px;
 }
+.header-title h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}

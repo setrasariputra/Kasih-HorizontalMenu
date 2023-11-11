@@ -14,3 +14,25 @@ body {
 .header-title h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
+.menu {
+    background-color: #34495e;
+    text-align: center;
+}
+.menu ul {
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px 40px 20px 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.menu ul li a:hover {
+    background-color: #1dba9a;
+}
